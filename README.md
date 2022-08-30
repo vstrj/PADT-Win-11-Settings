@@ -2,7 +2,7 @@
 Formats taskbar, sets custom taskbar, removes consumer teams
 
 
-For Powershell automation deployment toolkit.
+For Powershell application deployment toolkit.
 https://allnewandimproved.psappdeploytoolkit.com/
 
 Needs a Taskbar.xml in SupportFiles
